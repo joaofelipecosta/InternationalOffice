@@ -1,2 +1,2 @@
 # InternationalOffice
-Lansing page InternationalOffice
+Landing page InternationalOffice
